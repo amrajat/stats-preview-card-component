@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/amrajat/stats-preview-card-component)
-- Live Site URL: [live site demo](https://amrajat.github.com/stats-preview-card-component)
+- Live Site URL: [live site demo](https://amrajat.github.io/stats-preview-card-component)
 
 ## My process
 
